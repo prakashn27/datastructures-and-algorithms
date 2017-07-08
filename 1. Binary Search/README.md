@@ -1,9 +1,11 @@
 ## Binary Search
 
+#### Assumption
 ```
-prerequisite: should be ordered
-
-Algorithm:
+array should be ordered, else add nlog n for time complexity
+```
+#### Algorithm:
+```
 1. set low = 0, high = len - 1;
 2. mid = (low + high) / 2
 3. check if arr[mid] == val
@@ -17,3 +19,9 @@ Algorithm:
 			set high = mid - 1; go to step 2
 
 ```
+
+#### Complexity
+
+| Time  | Space |
+| ---- | ----- |
+| O(log n)  | O(1)  |
