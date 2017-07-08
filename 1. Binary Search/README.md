@@ -2,7 +2,7 @@
 
 #### Assumption
 ```
-array should be ordered, else add nlog n for time complexity
+sequence should be ordered, else add nlog n for time complexity
 ```
 #### Algorithm:
 ```
