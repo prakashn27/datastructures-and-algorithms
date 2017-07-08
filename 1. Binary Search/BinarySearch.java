@@ -1,18 +1,18 @@
 import java.util.*;
 
 public class BinarySearch {
-	public static boolean binarySearch(int[] arr, int val) {
-		return binarySearchHelper(arr, val, 0, arr.length - 1);
+	public static boolean binarySearch(int[] arr, int target) {
+		return binarySearchHelper(arr, target, 0, arr.length - 1);
 	}
 
-	private static boolean binarySearchHelper(int[] arr, int val, int low, int high) {
+	private static boolean binarySearchHelper(int[] arr, int target, int low, int high) {
 		if(low > high) return false;
 		int mid = (int)(low + high)/2;
-		if(arr[mid] == val) {
+		if(arr[mid] == target) {
 			return true;
 		}
-		else if(arr[mid] > val) return binarySearchHelper(arr, val, low, mid);
-		else return binarySearchHelper(arr, val, mid+1, high);
+		else if(arr[mid] > target) return binarySearchHelper(arr, target, low, mid);
+		else return binarySearchHelper(arr, target, mid+1, high);
 	}
 
 	public static void main(String[] args) {
