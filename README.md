@@ -1,84 +1,84 @@
-# Datastructures and Algorithms
+## Datastructures and Algorithms
 
--[ ] 1. Binary Search : Tutorial, Problems, Tutorial, Implementation, Problem
--[ ] 2. Quicksort : Tutorial, Implementation, Tutorial
--[ ] 3. Merge Sort : Tutorial, Implementation, Tutorial
--[ ] 4. Suffix Array : Tutorial, Tutorial, Implementation, Tutorial, Implementation, Problem, Problem
--[ ] 5. Knuth-Morris-Pratt Algorithm (KMP) : Tutorial, Tutorial, Implementation, Tutorial, Problem
--[ ] 6. Rabin-Karp Algorithm : Tutorial, Implementation, Tutorial, Problem, Problem
--[ ] 7. Tries : Tutorial, Problems, Tutorial : I, II, Tutorial, Problem, Problem, Problem
--[ ] 8. Depth First Traversal of a graph : Tutorial, Impelementation, Tutorial, Problems, Problem, Problem, Problem
--[ ] 9. Breadth First Traversal of a graph : Tutorial, Impelementation, Tutorial, Problems, Problem, Problem, Problem, Flood Fill
--[ ] 10. Dijkstra's Algorithm : Tutorial, Problems, Problem, Tutorial(greedy), Tutorial (with heap), Implementation, Problem, Problem
--[ ] 11. Binary Indexed Tree : Tutorial, Problems, Tutorial, Original Paper, Tutorial, Tutorial, Problem, Problem,Problem, Problem, Problem, Problem, Problem
--[ ] 12. Segment Tree (with lazy propagation) : Tutorial, Implementation, Tutorial, Tutorial, Problems, Implementation, Tutorial, Implementation and Various Uses, Persistent Segment Tree, problems same as BIT, Problem, Problem/HLD is used as well/
--[ ] 13. Z algorithm : Tutorial, Problem, Tutorial, problems same as KMP.
--[ ] 14. Floyd Warshall Algorithm : Tutorial, Implementation, Problem, Problem
--[ ] 15. Sparse Table (LCP, RMQ) : Tutorial, Problems, Tutorial, Implementation(C++), Java implementation
--[ ] 16. Heap / Priority Queue / Heapsort : Implementation, Explanation, Tutorial, Implementation, Problem, Chapter from CLRS
--[ ] 17. Modular Multiplicative Inverse
--[ ] 18. Binomial coefficients (nCr % M): Tutorial, Tutorial, Paper, Problem
--[ ] 19. Suffix Automaton : Detailed Paper, Tutorial, Implementation (I), Tutorial, Implementation (II), Problem, Problem, Problem, Problem, Tutorial, Implementation
--[ ] 20. Lowest Common Ancestor : Tutorial, Problems, Paper, Paper, Problem, Problem, Problem
--[ ] 21. Counting Inversions : Divide and Conquer, Segment Tree, Fenwick Tree, Problem
--[ ] 22. Euclid's Extended Algorithm
--[ ] 23. Suffix Tree : Tutorial, Tutorial, Intro, Construction : I, II, Implementation, Implementation, Problem, Problem, Problem, Problem
--[ ] 24. Dynamic Programming : Chapter from CLRS(essential), Tutorial, Problems, Problem, Problem, Problem, Problem, Tutorial, Problem, Problem, Problem, Longest Increasing Subsequence, Bitmask DP, Bitmask DP, Optimization, Problem, Problem, Problem, Problem, Problem, Problem, Problem, DP on Trees : I, II
--[ ] 25. Basic Data Structures : Tutorial, Stack Implementation, Queue Implementation, Tutorial, Linked List Implementation
--[ ] 26. Logarithmic Exponentiation
--[ ] 27. Graphs : Definition, Representation, Definition, Representation, Problem, Problem
--[ ] 28. Minimum Spanning Tree : Tutorial, Tutorial, Kruskal's Implementation, Prim's Implementation, Problem, Problem, Problem, Problem, Problem
--[ ] 29. Efficient Prime Factorization
--[ ] 30. Combinatorics : Tutorial, Problems, Problem, Tutorial
--[ ] 31. Union Find/Disjoint Set : Tutorial, Tutorial, Problems, Problem, Problem, Problem
--[ ] 32. Knapsack problem : Solution, Implementation
--[ ] 33. Aho-Corasick String Matching Algorithm : Tutorial, Implementation, Problem, Problem, Problem, Problem
--[ ] 34. Strongly Connected Components : Tutorial, Implementation, Tutorial, Problem, Problem, Problem
--[ ] 35. Bellman Ford algorithm : Tutorial, Implementation, Tutorial, Implementation, Problem, Problem
--[ ] 36. Heavy-light Decomposition : Tutorial, Problems, Tutorial, Implementation, Tutorial, Implementation, Implementation, Problem, Problem, Problem
--[ ] 37. Convex Hull : Tutorial, Jarvis Algorithm Implementation, Tutorial with Graham scan, Tutorial, Implementation, Problem, Problem, Problem, Problem, Problem
--[ ] 38. Line Intersection : Tutorial, Implementation, Tutorial, Problems
--[ ] 39. Sieve of Erastothenes
--[ ] 40. Interval Tree : Tutorial, Implementation, Problem, Problem, Problem, Problem, Problem, Problem, Tutorial
--[ ] 41. Counting Sort
--[ ] 42. Probabilities
--[ ] 43. Matrix Exponentiation : Tutorial, Tutorial
--[ ] 44. Network flow : (Max Flow)Tutorial : I, II, Max Flow(Ford-Fulkerson) Tutorial, Implementation, (Min Cut) Tutorial, Implementation, (Min Cost Flow)Tutorial : I, II, III, Dinic's Algorithm with Implementation, Max flow by Edmonds Karp with Implementation, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem
--[ ] 45. K-d tree : Tutorial, Tutorial, Implementation, Problem
--[ ] 46. Deque
--[ ] 47. Binary Search Tree : Tutorial, Implementation, Searching and Insertion, Deletion
--[ ] 48. Quick Select : Implementation, Implementation
--[ ] 49. Treap/Cartesian Tree : Tutorial(detailed), Tutorial, Implementation, Uses and Problems, Problem, Problem
--[ ] 50. Game Theory : Detailed Paper, Tutorial, Problems, Grundy Numbers, Tutorial with example problems - I, II, III,IV, Tutorial, Problems, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Problem, Nim
--[ ] 51. STL (C++) : I, II, Crash Course
--[ ] 52. Maximum Bipartite Matching
--[ ] 53. Manacher's Algorithm : Implementation, Tutorial, Tutorial, Implementation, Tutorial, Implementation, Problem, Problem, Problem
--[ ] 54. Miller-Rabin Primality Test : Code
--[ ] 55. Stable Marriage Problem
--[ ] 56. Hungarian Algorithm, Tutorial
--[ ] 57. Sweep line Algorithm : I, II
--[ ] 58. LCP : Tutorial, Implementation, Tutorial, Implementation
--[ ] 59. Gaussian Elimination
--[ ] 60. Pollard Rho Integer Factorization, problem
--[ ] 61. Topological Sorting
--[ ] 62. Detecting Cycles in a Graph : Directed - I, II Undirected : I
--[ ] 63. Geometry : Basics, Tutorial
--[ ] 64. Backtracking : N queens problem, Tug of War, Sudoku
--[ ] 65. Eulerian and Hamiltonian Paths : Tutorial, Tutorial, (Eulerian Path and Cycle)Implementation, (Hamiltonian Cycle)Implementation
--[ ] 66. Graph Coloring : Tutorial, Implementation
--[ ] 67. Meet in the Middle : Tutorial, Implementation
--[ ] 68. Arbitrary Precision Integer(BigInt), II
--[ ] 69. Radix Sort, Bucket Sort
--[ ] 70. Johnson's Algorithm : Tutorial, Tutorial, Implementation
--[ ] 71. Maximal Matching in a General Graph : Blossom/Edmond's Algorithm, Implementation, Tutte Matrix, Problem
--[ ] 72. Recursion : I, II, Towers of Hanoi with explanation
--[ ] 73. Inclusion and Exclusion Principle : I, II
--[ ] 74. Co-ordinate Compression
--[ ] 75. Sqrt-Decomposition : Tutorial, Tutorial, Problem, Problem
--[ ] 76. Link-Cut Tree : Tutorial, Wiki, Tutorial, Implementation, Problem, Problem, Problem, Problem
--[ ] 77. Euler's Totient Function : Explanation, Implementation, Problems, Explanation, Problems
--[ ] 78. Burnside Lemma : Tutorial, Tutorial, Problem
--[ ] 79. Edit/Levenshtein Distance : Tutorial, Introduction, Tutorial, Problem, Problem
--[ ] 80. Branch and Bound
--[ ] 81. Math for Competitive Programming
--[ ] Mo's Algorithm : Tutorial and Problems
+[ ] 1. Binary Search   
+[ ] 2. Quicksort 
+[ ] 3. Merge Sort
+[ ] 4. Suffix Array 
+[ ] 5. Knuth-Morris-Pratt Algorithm (KMP) 
+[ ] 6. Rabin-Karp Algorithm 
+[ ] 7. Tries 
+[ ] 8. Depth First Traversal of a graph 
+[ ] 9. Breadth First Traversal of a graph 
+[ ] 10. Dijkstra's Algorithm 
+[ ] 11. Binary Indexed Tree 
+[ ] 12. Segment Tree (with lazy propagation) 
+[ ] 13. Z algorithm 
+[ ] 14. Floyd Warshall Algorithm 
+[ ] 15. Sparse Table (LCP, RMQ) 
+[ ] 16. Heap / Priority Queue / Heapsort 
+[ ] 17. Modular Multiplicative Inverse
+[ ] 18. Binomial coefficients (nCr % M)
+[ ] 19. Suffix Automaton 
+[ ] 20. Lowest Common Ancestor 
+[ ] 21. Counting Inversions 
+[ ] 22. Euclid's Extended Algorithm
+[ ] 23. Suffix Tree 
+[ ] 24. Dynamic Programming 
+[ ] 25. Basic Data Structures 
+[ ] 26. Logarithmic Exponentiation
+[ ] 27. Graphs 
+[ ] 28. Minimum Spanning Tree 
+[ ] 29. Efficient Prime Factorization
+[ ] 30. Combinatorics 
+[ ] 31. Union Find/Disjoint Set 
+[ ] 32. Knapsack problem 
+[ ] 33. Aho-Corasick String Matching Algorithm 
+[ ] 34. Strongly Connected Components 
+[ ] 35. Bellman Ford algorithm 
+[ ] 36. Heavy-light Decomposition 
+[ ] 37. Convex Hull 
+[ ] 38. Line Intersection 
+[ ] 39. Sieve of Erastothenes
+[ ] 40. Interval Tree 
+[ ] 41. Counting Sort
+[ ] 42. Probabilities
+[ ] 43. Matrix Exponentiation 
+[ ] 44. Network flow 
+[ ] 45. K-d tree 
+[ ] 46. Deque
+[ ] 47. Binary Search Tree 
+[ ] 48. Quick Select 
+[ ] 49. Treap/Cartesian Tree 
+[ ] 50. Game TheoryP       
+[ ] 51. STL (C++)       
+[ ] 52. Maximum Bipartite Matching
+[ ] 53. Manacher's Algorithm       
+[ ] 54. Miller-Rabin Primality Test : Code
+[ ] 55. Stable Marriage Problem
+[ ] 56. Hungarian Algorithm, Tutorial
+[ ] 57. Sweep line Algorithm       
+[ ] 58. LCP       
+[ ] 59. Gaussian Elimination
+[ ] 60. Pollard Rho Integer Factorization, problem
+[ ] 61. Topological Sorting
+[ ] 62. Detecting Cycles in a Graph       
+[ ] 63. Geometry       
+[ ] 64. Backtracking       
+[ ] 65. Eulerian and Hamiltonian Paths       
+[ ] 66. Graph Coloring       
+[ ] 67. Meet in the Middle       
+[ ] 68. Arbitrary Precision Integer(BigInt), II
+[ ] 69. Radix Sort, Bucket Sort
+[ ] 70. Johnson's Algorithm       
+[ ] 71. Maximal Matching in a General Graph       
+[ ] 72. Recursion       
+[ ] 73. Inclusion and Exclusion Principle       
+[ ] 74. Co-ordinate Compression
+[ ] 75. Sqrt-Decomposition       
+[ ] 76. Link-Cut Tree       
+[ ] 77. Euler's Totient Function       
+[ ] 78. Burnside Lemma       
+[ ] 79. Edit/Levenshtein Distance       
+[ ] 80. Branch and Bound
+[ ] 81. Math for Competitive Programming
+[ ] 82. Mo's Algorithm       
