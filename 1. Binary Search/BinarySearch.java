@@ -11,7 +11,7 @@ public class BinarySearch {
 		if(arr[mid] == target) {
 			return true;
 		}
-		else if(arr[mid] > target) return binarySearchHelper(arr, target, low, mid);
+		else if(arr[mid] > target) return binarySearchHelper(arr, target, low, mid - 1);
 		else return binarySearchHelper(arr, target, mid+1, high);
 	}
 
@@ -21,6 +21,6 @@ public class BinarySearch {
 		assert binarySearch(arr, 2): "failed at checking 2";
 		assert binarySearch(arr, 7): "failed at checking 7";
 		assert (binarySearch(arr, 10) == false) : "failed at checking 10";
-		assert (binarySearch(arr, 8) == false) : "failed at checking 8";
+		assert (binarySearch(arr, 0)) : "failed at checking 0";
 	}
 }
