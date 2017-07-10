@@ -1,6 +1,6 @@
 ## Datastructures and Algorithms
 
-- [ ] 1. Binary Search 
+- [x] 1. Binary Search 
 - [ ] 2. Quicksort    
 - [ ] 3. Merge Sort
 - [ ] 4. Suffix Array 
