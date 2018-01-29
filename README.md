@@ -1,5 +1,19 @@
-## Datastructures and Algorithms
 
+## Things to study from [Competitive Programmers Handbook](https://cses.fi/book.pdf)
+- [ ] Basic Techniques
+  - [x] Time Complexity
+  - [ ] Sorting
+  - [ ] Data Structures
+  - [x] Complete Search
+  - [ ] Greedy Algorithms
+  - [ ] Dynamic Programming
+  - [ ] Amortized Analysis
+  - [ ] Range Queries
+  - [ ] Bit Manipulation
+- [ ] Graph Algorithms
+- [ ] Advanced Topics
+
+## Datastructures and Algorithms
 - [x] 1. Binary Search 
 - [ ] 2. Quicksort    
 - [ ] 3. Merge Sort
