@@ -1,7 +1,8 @@
 # BIT
 
 ## Time
-Update: log(n)
+Update= log(n)
+
 rsq = lob(n)
 
 ## Space:
