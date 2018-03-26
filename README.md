@@ -24,7 +24,7 @@
 - [ ] 8. Depth First Traversal of a graph 
 - [ ] 9. Breadth First Traversal of a graph 
 - [ ] 10. Dijkstra's Algorithm 
-- [ ] 11. Binary Indexed Tree 
+- [x] [11. Binary Indexed Tree ](https://github.com/prakashn27/datastructures-and-algorithms/tree/master/BinaryIndexedTree)
 - [ ] 12. Segment Tree (with lazy propagation) 
 - [ ] 13. Z algorithm 
 - [ ] 14. Floyd Warshall Algorithm 
