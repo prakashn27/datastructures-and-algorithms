@@ -3,7 +3,7 @@
 ## Time
 Update= log(n)
 
-rsq = lob(n)
+rsq = log(n)
 
 ## Space:
 O(n)
