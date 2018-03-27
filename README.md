@@ -25,7 +25,7 @@
 - [ ] 9. Breadth First Traversal of a graph 
 - [ ] 10. Dijkstra's Algorithm 
 - [x] [11. Binary Indexed Tree ](https://github.com/prakashn27/datastructures-and-algorithms/tree/master/BinaryIndexedTree)
-- [ ] 12. Segment Tree (with lazy propagation) 
+- [x] [12. Segment Tree (with lazy propagation)](https://github.com/prakashn27/datastructures-and-algorithms/blob/master/12.%20Segment%20Tree/SegmentTree.java)
 - [ ] 13. Z algorithm 
 - [ ] 14. Floyd Warshall Algorithm 
 - [ ] 15. Sparse Table (LCP, RMQ) 
