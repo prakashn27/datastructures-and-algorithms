@@ -98,4 +98,4 @@
 - [ ] 82. Mo's Algorithm       
 
 
-* [C++ implementation of most DS and algorithms](https://github.com/kth-competitive-programming/kactl)
+* [C++ implementation of most DS and algorithms](https://github.com/kth-competitive-programming/kactl/tree/master/content)
