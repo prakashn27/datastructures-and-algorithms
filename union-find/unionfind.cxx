@@ -1,21 +1,26 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-unordered_map<int, int> f;
-int islands = 0;
-
-int find(int x) {
-    if (!f.count(x)) f[x] = x, islands++;
-    if (x != f[x]) f[x] = find(f[x]);
-    return f[x];
-}
-
-void uni(int x, int y) {
-    x = find(x), y = find(y);
-    if (x != y) f[x] = y, islands--;
-}
+template<typename T>
+class UF {
+	unordered_map<T, T> f;
+	int islands = 0;
+public:	
+	T find(T x) {
+	    if (!f.count(x)) f[x] = x, islands++;
+	    if (x != f[x]) f[x] = find(f[x]);
+	    return f[x];
+	}
+	
+	void uni(T x, T y) {
+	    x = find(x), y = find(y);
+	    if (x != y) f[x] = y, islands--;
+	}
+};
 
 int main() {
-  uni(1,2);
-  assert(find(1) == find(2));
+  string a = "a", b = "b";
+  UF<string> uf;
+  uf.uni(a,b);
+  assert(uf.find(a) == uf.find(b));
 }
